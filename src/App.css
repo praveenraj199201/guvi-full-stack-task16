@@ -1,0 +1,15 @@
+
+.container .navbar-course p{
+  padding: 5px;
+  font-weight: bold;
+  color: black;
+}
+
+.container .navbar-all p{
+color: black;
+margin-right: 40px;
+}
+.navbar :checked{
+color: blue;
+border-bottom: 1px solid green;
+}
